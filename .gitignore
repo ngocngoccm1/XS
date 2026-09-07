@@ -1,0 +1,8 @@
+dist/
+.npm-cache/
+.playwright-mcp/
+lighthouse-*.json
+*-preview.png
+mobile-*.png
+dark-*.png
+xs-desktop.png
